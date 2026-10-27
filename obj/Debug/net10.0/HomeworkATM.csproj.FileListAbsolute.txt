@@ -1,0 +1,15 @@
+C:\Uni Apps\CSharp\CSharpHomework6\HomeworkATM\obj\Debug\net10.0\HomeworkATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Uni Apps\CSharp\CSharpHomework6\HomeworkATM\obj\Debug\net10.0\HomeworkATM.AssemblyInfoInputs.cache
+C:\Uni Apps\CSharp\CSharpHomework6\HomeworkATM\obj\Debug\net10.0\HomeworkATM.AssemblyInfo.cs
+C:\Uni Apps\CSharp\CSharpHomework6\HomeworkATM\obj\Debug\net10.0\HomeworkATM.csproj.CoreCompileInputs.cache
+C:\Uni Apps\CSharp\CSharpHomework6\HomeworkATM\obj\Debug\net10.0\HomeworkATM.sourcelink.json
+C:\Uni Apps\CSharp\CSharpHomework6\HomeworkATM\bin\Debug\net10.0\HomeworkATM.exe
+C:\Uni Apps\CSharp\CSharpHomework6\HomeworkATM\bin\Debug\net10.0\HomeworkATM.deps.json
+C:\Uni Apps\CSharp\CSharpHomework6\HomeworkATM\bin\Debug\net10.0\HomeworkATM.runtimeconfig.json
+C:\Uni Apps\CSharp\CSharpHomework6\HomeworkATM\bin\Debug\net10.0\HomeworkATM.dll
+C:\Uni Apps\CSharp\CSharpHomework6\HomeworkATM\bin\Debug\net10.0\HomeworkATM.pdb
+C:\Uni Apps\CSharp\CSharpHomework6\HomeworkATM\obj\Debug\net10.0\HomeworkATM.dll
+C:\Uni Apps\CSharp\CSharpHomework6\HomeworkATM\obj\Debug\net10.0\refint\HomeworkATM.dll
+C:\Uni Apps\CSharp\CSharpHomework6\HomeworkATM\obj\Debug\net10.0\HomeworkATM.pdb
+C:\Uni Apps\CSharp\CSharpHomework6\HomeworkATM\obj\Debug\net10.0\HomeworkATM.genruntimeconfig.cache
+C:\Uni Apps\CSharp\CSharpHomework6\HomeworkATM\obj\Debug\net10.0\ref\HomeworkATM.dll
