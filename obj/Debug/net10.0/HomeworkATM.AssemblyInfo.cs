@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HomeworkATM")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65f6d28c7f084a8d95f97210114e59dcef82960f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+623cbfb8718dd7c79a134d0b1c1794ab5342efa7")]
 [assembly: System.Reflection.AssemblyProductAttribute("HomeworkATM")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HomeworkATM")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
